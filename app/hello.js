@@ -5,7 +5,7 @@ function hello(name) {
 */
   //ここにHelloworldを実装します。
   //return "Hello World!";
-  return "Hello World!"
+  return "Hello "+name+"!"
 }
 
 module.exports = hello;
